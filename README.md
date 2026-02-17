@@ -2,19 +2,9 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjenilpatel-cyber-dev/itsjenilpatel-cyber-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjenilpatel-cyber-dev/itsjenilpatel-cyber-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsjenilpatel-cyber-dev/itsjenilpatel-cyber-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsjenilpatel-cyber-dev/itsjenilpatel-cyber-dev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://img.freepik.com/free-vector/top-view-wooden-messy-work-table-night-cartoon-vector-workspace-with-light-from-screen-tablet-notebook-sticky-notes-cookie-crumbs-keyboard-coffee-spills-desk-phone-glasses_107791-23714.jpg?semt=ais_hybrid&w=740&q=80"  />
+</div>
 
 ###
 
@@ -54,6 +44,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35" alt="discordjs logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhdNV9h4tfqzD1-Aj4LNpIe3q1JmOzvgnGg&s"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img height="363" src="https://www.safeaeon.com/assets/img/blogImages/vulnerability-remediation_banner.webp"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
