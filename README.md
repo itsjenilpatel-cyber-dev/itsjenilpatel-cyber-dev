@@ -52,16 +52,6 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhdNV9h4tfqzD1-Aj4LNpIe3q1JmOzvgnGg&s"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
   <img height="363" src="https://www.safeaeon.com/assets/img/blogImages/vulnerability-remediation_banner.webp"  />
 </div>
 
